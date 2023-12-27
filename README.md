@@ -11,6 +11,8 @@ From: 24 December 2023 - To: 26 December 2023
 Total Time: 4 hrs 8 mins
 
 Python   4 hrs           >>>>>>>>>>>>>>>>>>>>>>>>-   96.80 %
+YAML     3 mins          -------------------------   01.58 %
+JSON     3 mins          -------------------------   01.28 %
 Other    0 secs          -------------------------   00.18 %
 ```
 
