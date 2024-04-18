@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 December 2023 - To: 16 April 2024
+From: 24 December 2023 - To: 17 April 2024
 
 Total Time: 295 hrs 29 mins
 
 Python            208 hrs 41 mins >>>>>>>>>>>>>>>>>--------   68.86 %
-JavaScript        25 hrs 22 mins  >>-----------------------   08.38 %
+JavaScript        25 hrs 22 mins  >>-----------------------   08.37 %
 TypeScript        16 hrs 37 mins  >------------------------   05.49 %
 YAML              8 hrs 39 mins   >------------------------   02.86 %
 Bash              7 hrs 52 mins   >------------------------   02.60 %
