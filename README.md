@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 December 2023 - To: 16 June 2024
+From: 24 December 2023 - To: 17 June 2024
 
-Total Time: 390 hrs 59 mins
+Total Time: 396 hrs 5 mins
 
-Python            251 hrs 37 mins >>>>>>>>>>>>>>>>---------   63.06 %
-TypeScript        48 hrs 16 mins  >>>----------------------   12.10 %
-JavaScript        33 hrs 24 mins  >>-----------------------   08.38 %
-YAML              12 hrs 3 mins   >------------------------   03.02 %
-Bash              8 hrs 39 mins   >------------------------   02.17 %
-Other             8 hrs           >------------------------   02.01 %
+Python            255 hrs 53 mins >>>>>>>>>>>>>>>>---------   63.32 %
+TypeScript        48 hrs 16 mins  >>>----------------------   11.95 %
+JavaScript        33 hrs 24 mins  >>-----------------------   08.27 %
+YAML              12 hrs 4 mins   >------------------------   02.99 %
+Bash              8 hrs 50 mins   >------------------------   02.19 %
+Other             8 hrs 2 mins    -------------------------   01.99 %
 ```
 
 <!--END_SECTION:waka-->
