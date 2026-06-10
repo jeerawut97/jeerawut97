@@ -1,18 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 December 2023 - To: 08 June 2026
+From: 24 December 2023 - To: 09 June 2026
 
-Total Time: 1,867 hrs 33 mins
+Total Time: 1,869 hrs 23 mins
 
-C#                                 580 hrs 16 mins       >>>>>>>>-----------------   30.60 %
-Python                             456 hrs 21 mins       >>>>>>-------------------   24.06 %
-Binary                             195 hrs 28 mins       >>>----------------------   10.31 %
-TypeScript                         185 hrs 35 mins       >>-----------------------   09.79 %
-HTML                               86 hrs 49 mins        >------------------------   04.58 %
-JavaScript                         83 hrs 22 mins        >------------------------   04.40 %
-JSON                               75 hrs 43 mins        >------------------------   03.99 %
-YAML                               46 hrs 28 mins        >------------------------   02.45 %
+C#                                 580 hrs 57 mins       >>>>>>>>-----------------   30.60 %
+Python                             456 hrs 21 mins       >>>>>>-------------------   24.04 %
+Binary                             195 hrs 29 mins       >>>----------------------   10.30 %
+TypeScript                         185 hrs 35 mins       >>-----------------------   09.78 %
+HTML                               86 hrs 49 mins        >------------------------   04.57 %
+JavaScript                         83 hrs 22 mins        >------------------------   04.39 %
+JSON                               76 hrs 3 mins         >------------------------   04.01 %
+YAML                               47 hrs 5 mins         >------------------------   02.48 %
 Docker                             29 hrs 32 mins        -------------------------   01.56 %
 Other                              29 hrs 3 mins         -------------------------   01.53 %
 ```
